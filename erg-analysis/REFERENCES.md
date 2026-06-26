@@ -4,11 +4,11 @@
 
 ### Constable et al. 2025
 
-Constable, P. A., et al. (2025). *(referência completa a confirmar)*
-- Comparação dos resultados deste estudo: BA = 0,87 (binário ASD vs. controle), BA = 0,53 (multiclasse, 4 condições)
-- Usado como referência no Passo 7 do notebook de classificação
-
-> ⚠️ Preencher com a citação completa e DOI do artigo de Constable et al. 2025.
+Constable, P. A., Pinzon-Arenas, J. O., Mercado Diaz, L. R., Lee, I. O., Marmolejo-Ramos, F., Loh, L., Zhdanov, A., Kulyabin, M., Brabec, M., Skuse, D. H., Thompson, D. A., & Posada-Quintero, H. (2025). Spectral Analysis of Light-Adapted Electroretinograms in Neurodevelopmental Disorders: Classification with Machine Learning. *Bioengineering*, 12(1), 15.
+- DOI: [10.3390/bioengineering12010015](https://doi.org/10.3390/bioengineering12010015)
+- PMC (acesso aberto): [PMC11761560](https://pmc.ncbi.nlm.nih.gov/articles/PMC11761560/)
+- Resultados de referência: BA = 0,87 (binário ASD vs. controle, apenas homens), BA = 0,53 (4 grupos: ASD/TDAH/controle)
+- Usado como baseline no Passo 7 do notebook de classificação
 
 ---
 
