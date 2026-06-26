@@ -572,8 +572,10 @@ A amplitude observada no corpus foi baixa: BERTScore ≈ 0,023; COMET ≈ 0,046 
 
 ## Referências Bibliográficas
 
-- Price, A., Sumner, P., & Powell, G. (2025). Understanding the subtypes of visual hypersensitivity: Four coherent factors and their measurement with the Cardiff Hypersensitivity Scale (CHYPS). *Vision Research*, 233, 108610.
-- Price, A., Sumner, P., & Powell, G. (2025). The subtypes of visual hypersensitivity are transdiagnostic across neurodivergence, neurology and mental health. *Vision Research*, 234, 108640.
-- Moreno, G. C. L., et al. (2022). ALT: um software para análise de legibilidade de textos em Língua Portuguesa. *arXiv:2203.12135*.
-- Zhang, T., et al. (2020). BERTScore: Evaluating Text Generation with BERT. *ICLR 2020*.
-- Rei, R., et al. (2020). COMET: A Neural Framework for MT Evaluation. *EMNLP 2020*.
+Citações resumidas abaixo. Para DOIs, links e detalhes completos, veja [REFERENCES.md](REFERENCES.md).
+
+- Price, A., Sumner, P., & Powell, G. (2025). Understanding the subtypes of visual hypersensitivity: Four coherent factors and their measurement with the Cardiff Hypersensitivity Scale (CHYPS). *Vision Research*, 233, 108610. [DOI](https://doi.org/10.1016/j.visres.2025.108610)
+- Price, A., Sumner, P., & Powell, G. (2025). The subtypes of visual hypersensitivity are transdiagnostic across neurodivergence, neurology and mental health. *Vision Research*, 234, 108640. [DOI](https://doi.org/10.1016/j.visres.2025.108640)
+- Moreno, G. C. L., et al. (2022). ALT: um software para análise de legibilidade de textos em Língua Portuguesa. *arXiv:2203.12135*. [arXiv](https://arxiv.org/abs/2203.12135)
+- Zhang, T., et al. (2020). BERTScore: Evaluating Text Generation with BERT. *ICLR 2020*. [arXiv](https://arxiv.org/abs/1904.09675)
+- Rei, R., et al. (2020). COMET: A Neural Framework for MT Evaluation. *EMNLP 2020*. [ACL](https://aclanthology.org/2020.emnlp-main.213/)
