@@ -1,0 +1,160 @@
+# Escala de Hipersensibilidade de Cardiff – Visual (CHYPS-V)
+
+Este questionário pergunta se determinadas situações são confortáveis ou desconfortáveis para os seus olhos e cabeça. Embora uma situação possa ser desconfortável porque é perturbadora, assustadora ou repulsiva, não é isso que queremos dizer aqui.
+
+Estamos perguntando especificamente se essas situações são fisicamente desconfortáveis, causando algum tipo de dor física, cansaço, incômodo ou tensão em ou ao redor dos seus olhos ou da sua cabeça.
+
+Responda a cada pergunta com base no que acontece quando você vivencia uma determinada situação, e não em quão frequentemente você a vivencia. Por exemplo, se você sempre sente desconforto ao passar uma camisa listrada, mas não costuma fazê-lo com frequência, você deve responder “Quase sempre”.
+
+Indique abaixo o que queremos dizer com “desconfortável” nas perguntas que você está prestes a responder (leia o texto acima se não tiver certeza):
+
+- Perturbador
+- Assustador
+- Repulsivo
+- Dor física, cansaço ou tensão em ou ao redor dos seus olhos ou da sua cabeça
+
+Este questionário pergunta se determinadas situações são confortáveis ou desconfortáveis para os seus olhos e cabeça. Embora uma situação possa ser desconfortável porque é perturbadora, assustadora ou repulsiva, não é isso que queremos dizer aqui.
+
+Estamos perguntando especificamente se essas situações são fisicamente desconfortáveis, causando algum tipo de dor física, cansaço, incômodo ou tensão em ou ao redor dos seus olhos ou da sua cabeça.
+
+Responda a cada pergunta com base no que acontece quando você vivencia uma determinada situação, e não em quão frequentemente você a vivencia. Por exemplo, se você sempre sente desconforto ao passar uma camisa listrada, mas não costuma fazê-lo com frequência, você deve responder “Quase sempre”.
+
+1. Quando olho para padrões repetitivos ou listrados (por exemplo, piso com padrão, papel de parede, prédios, roupas listradas), meus olhos ou minha cabeça ficam tão desconfortáveis que preciso desviar o olhar
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+2. Procuro evitar assistir a filmes ou programas de TV com muitos movimentos rápidos ou filmagens com câmera tremida (por exemplo, jogos esportivos, filmes de ação), porque acho desconfortável olhar para eles
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+3. Eu apago ou diminuo a intensidade de luzes de teto muito fortes porque elas deixam meus olhos ou minha cabeça desconfortáveis
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+4. Preciso desviar o olhar ao assistir esportes ou pessoas correndo e se movendo rapidamente porque isso é visualmente desconfortável para mim
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+5. Padrões e figuras listradas ou repetitivas parecem cintilar, piscar ou se mover quando olho para elas
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+6. Fecho os olhos ou desvio o olhar se houver luzes estroboscópicas ou piscando em um programa de TV ou em um filme no cinema
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+7. Mesmo quando o sol não está diretamente nos meus olhos, preciso abaixar o para-sol ao dirigir em condições de muita luminosidade, porque a luz é desconfortável para meus olhos ou minha cabeça
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+8. Quando há muitas cores fortes ao meu redor, tendo a ter dor de cabeça
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+9. Considero mudanças bruscas do escuro para o claro muito desconfortáveis para meus olhos e minha cabeça (por exemplo, acender a luz à noite, sair de um cômodo escuro)
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+10. Jogos de videogame com muito movimento deixam meus olhos ou minha cabeça desconfortáveis
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+11. Ambientes bagunçados ou visualmente desorganizados (por exemplo, quartos, lojas ou outros ambientes) deixam meus olhos ou minha cabeça desconfortáveis
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+12. Preciso desviar o olhar ou evitar padrões complexos no meu ambiente (por exemplo, papel de parede, carpetes, obras de arte)
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+13. Observar multidões de pessoas se movimentando é desconfortável para meus olhos e minha cabeça
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+14. Quando a luz do sol é refletida em superfícies (por exemplo, água, neve, espelhos, carros, telas), meus olhos ou minha cabeça ficam tão desconfortáveis que preciso desviar o olhar
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+15. Acho desconfortável olhar para cômodos ou prédios com elementos listrados ou complexos (por exemplo, painéis de alto contraste, tijolos aparentes, colunas)
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+16. Olhar para telas que piscam é desconfortável para meus olhos e minha cabeça
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+17. Procuro evitar ir a supermercados porque os acho visualmente desconfortáveis (por exemplo, muitos objetos, prateleiras, cores fortes e luzes)
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+18. Procuro evitar locais onde haverá luzes estroboscópicas ou piscando (por exemplo, casas noturnas, teatros, shows), caso elas deixem meus olhos ou minha cabeça desconfortáveis
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+19. Meus olhos ou minha cabeça ficam desconfortáveis se houver uma luz forte no escuro (por exemplo, telas de cinema, salas de aula ou auditórios, lanternas, faróis de carros à noite)
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre
+
+20. Roupas com listras, xadrez ou padrões complexos me fazem querer desviar o olhar
+
+    - [ ] Quase nunca
+    - [ ] Ocasionalmente
+    - [ ] Frequentemente
+    - [ ] Quase sempre

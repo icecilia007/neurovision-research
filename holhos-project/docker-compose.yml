@@ -1,0 +1,102 @@
+services:
+  nginx:
+    image: nginx:alpine
+    container_name: nginx_proxy
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - frontend
+    networks:
+      - frontend-network
+    restart: unless-stopped
+
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: questionarios_frontend
+    working_dir: /app 
+    env_file:
+      - .env
+    expose:
+      - "8080"
+    depends_on:
+      - backend
+    environment:
+      - API_BASE_URL=http://backend:8000
+      - STORAGE_SECRET=${STORAGE_SECRET:-questionnaire-app-secret-key-2024}
+    volumes:
+      - ./frontend:/app
+    networks:
+      - frontend-network
+      - backend-network
+    command: ["python", "app.py"]
+    
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: questionarios_backend
+    working_dir: /app
+    expose:
+      - "8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=postgresql://postgres:password@db:5432/formularios_db
+      - FRONTEND_BASE_URL=${MY_IP}
+    volumes:
+      - ./backend:/app
+    networks:
+      - backend-network
+      - database-network
+    command: >
+      sh -c "
+      cd /app &&
+      echo 'Executando migrações...' &&
+      alembic upgrade head &&
+      echo 'Iniciando servidor...' &&
+      uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+      "
+
+
+  db:
+    image: postgres:15
+    container_name: questionarios_db
+    env_file:
+      - .env
+    environment:
+      - POSTGRES_DB=formularios_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+    expose:
+      - "5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - database-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d formularios_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+
+networks:
+  frontend-network:
+    driver: bridge
+  backend-network:
+    driver: bridge
+  database-network:
+    driver: bridge
+    internal: true
+
+
+volumes:
+  postgres_data:

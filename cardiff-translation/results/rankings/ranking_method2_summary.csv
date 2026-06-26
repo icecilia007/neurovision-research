@@ -1,0 +1,11 @@
+﻿metric,rank,model_id,value
+bertscore,1,CHYPS-V-br20-Human-25-09-30,0.7184709310531616
+bertscore,2,CHYPS-V-br20-Grok-4.1-25-12-10,0.7182774543762207
+bertscore,3,CHYPS-V-br20-Grok-4-25-07-25,0.7169928550720215
+bertscore,4,CHYPS-V-br20-Deepseek-v3.2-deepthink-25-12-10,0.714280903339386
+bertscore,5,CHYPS-V-br20-Gemini-2.5-Pro-25-06-05,0.7131612300872803
+comet,1,CHYPS-V-br20-Deepseek-v3.2-deepthink-25-12-10,0.7760249972343445
+comet,2,CHYPS-V-br20-DeepL-v2-api-v3.4.1-25-06-05,0.773702085018158
+comet,3,CHYPS-V-br20-qwen-3-max-25-07-24,0.7684171199798584
+comet,4,CHYPS-V-br20-Gemini-2.5-Pro-25-06-05,0.7636045813560486
+comet,5,CHYPS-V-br20-Claude-4.1-Opus-24-09-30,0.7523332834243774

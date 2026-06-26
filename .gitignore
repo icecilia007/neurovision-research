@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Claude Code internal
+.claude/
+
+# erg-analysis: raw and processed ERG data (LGPD)
+erg-analysis/output/
+erg-analysis/exam/
+erg-analysis/waveform/
+erg-analysis/patients-data/
+erg-analysis/tmp/
+erg-analysis/encrypted/
+
+# holhos-project: runtime artifacts
+holhos-project/backend/__pycache__/
+holhos-project/frontend/__pycache__/

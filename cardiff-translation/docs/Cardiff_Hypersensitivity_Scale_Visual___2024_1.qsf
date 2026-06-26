@@ -1,0 +1,2401 @@
+{
+  "SurveyEntry": {
+    "SurveyID": "SV_d0Du8qda17TAb6m",
+    "SurveyName": "Cardiff Hypersensitivity Scale (Visual) - 2024",
+    "SurveyDescription": null,
+    "SurveyOwnerID": "UR_4V2YEthulFYaj7D",
+    "SurveyBrandID": "cardiffunipsych",
+    "DivisionID": null,
+    "SurveyLanguage": "EN",
+    "SurveyActiveResponseSet": "RS_54q7fSWiRg8STTE",
+    "SurveyStatus": "Active",
+    "SurveyStartDate": "0000-00-00 00:00:00",
+    "SurveyExpirationDate": "0000-00-00 00:00:00",
+    "SurveyCreationDate": "2024-08-20 12:13:40",
+    "CreatorID": "UR_4V2YEthulFYaj7D",
+    "LastModified": "2025-05-21 05:00:11",
+    "LastAccessed": "0000-00-00 00:00:00",
+    "LastActivated": "2024-08-27 06:48:28",
+    "Deleted": null
+  },
+  "SurveyElements": [
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "BL",
+      "PrimaryAttribute": "Survey Blocks",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "1": {
+          "Type": "Trash",
+          "Description": "Trash \/ Unused Questions",
+          "ID": "BL_2i85pGGb0aOfF7E",
+          "BlockElements": [
+            {
+              "Type": "Question",
+              "QuestionID": "QID1"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516427"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID26"
+            }
+          ]
+        },
+        "2": {
+          "Type": "Standard",
+          "Description": "Final CHYPS",
+          "ID": "BL_0ulFBLoRjBmya1g",
+          "BlockElements": [
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516406"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516407"
+            },
+            {
+              "Type": "Page Break"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516408"
+            },
+            {
+              "Type": "Page Break"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516409"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516410"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516411"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516412"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516413"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516414"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516415"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516416"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516417"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516418"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516419"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516420"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516421"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516422"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516423"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516424"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516425"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516426"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID27"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516428"
+            },
+            {
+              "Type": "Question",
+              "QuestionID": "QID1216516429"
+            }
+          ],
+          "Options": {
+            "BlockLocking": false,
+            "RandomizeQuestions": "false",
+            "BlockVisibility": "Collapsed"
+          }
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "FL",
+      "PrimaryAttribute": "Survey Flow",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "Flow": [
+          {
+            "ID": "BL_0ulFBLoRjBmya1g",
+            "Type": "Standard",
+            "FlowID": "FL_3"
+          }
+        ],
+        "Properties": {
+          "Count": 3
+        },
+        "FlowID": "FL_1",
+        "Type": "Root"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "PL",
+      "PrimaryAttribute": "Preview Link",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "PreviewType": "Brand",
+        "PreviewID": "f76bebef-32f2-44b5-b8d1-2cf153ae245c"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "PROJ",
+      "PrimaryAttribute": "CORE",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": "1.1.0",
+      "Payload": {
+        "ProjectCategory": "CORE",
+        "SchemaVersion": "1.1.0"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "QC",
+      "PrimaryAttribute": "Survey Question Count",
+      "SecondaryAttribute": "27",
+      "TertiaryAttribute": null,
+      "Payload": null
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "RS",
+      "PrimaryAttribute": "RS_54q7fSWiRg8STTE",
+      "SecondaryAttribute": "Default Response Set",
+      "TertiaryAttribute": null,
+      "Payload": null
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SCO",
+      "PrimaryAttribute": "Scoring",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "ScoringCategories": [
+          {
+            "Description": "",
+            "ID": "SC_6VkwLnd0hWK8sXc",
+            "Name": "Score"
+          },
+          {
+            "ID": "SC_aXypFxS17s9X4N0",
+            "Name": "Total",
+            "Description": null
+          }
+        ],
+        "ScoringCategoryGroups": [],
+        "DefaultScoringCategory": "SC_6VkwLnd0hWK8sXc",
+        "ScoringSummaryCategory": "SC_6VkwLnd0hWK8sXc",
+        "ScoringSummaryAfterQuestions": 0,
+        "ScoringSummaryAfterSurvey": 0,
+        "AutoScoringCategory": null,
+        "IgnoreNullValues": true
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SO",
+      "PrimaryAttribute": "Survey Options",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "BackButton": "false",
+        "SaveAndContinue": "true",
+        "SurveyProtection": "PublicSurvey",
+        "BallotBoxStuffingPrevention": "false",
+        "NoIndex": "Yes",
+        "SecureResponseFiles": "true",
+        "SurveyExpiration": "None",
+        "SurveyTermination": "DefaultMessage",
+        "Header": "",
+        "Footer": "",
+        "ProgressBarDisplay": "None",
+        "PartialData": "+1 week",
+        "ValidationMessage": "",
+        "PreviousButton": "",
+        "NextButton": "",
+        "SurveyTitle": "Qualtrics Survey | Qualtrics Experience Management",
+        "SkinLibrary": "cardiffunipsych",
+        "SkinType": "templated",
+        "Skin": {
+          "brandingId": "9155181985",
+          "templateId": "*base",
+          "overrides": null
+        },
+        "NewScoring": 1,
+        "SurveyMetaDescription": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+        "SurveyName": "Cardiff Hypersensitivity Scale (Visual) - 2024"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1",
+      "SecondaryAttribute": "Click to write the question text",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "Click to write the question text",
+        "DataExportTag": "Q1",
+        "QuestionType": "MC",
+        "Selector": "SAVR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Click to write the question text",
+        "Choices": {
+          "1": {
+            "Display": "Click to write Choice 1"
+          },
+          "2": {
+            "Display": "Click to write Choice 2"
+          },
+          "3": {
+            "Display": "Click to write Choice 3"
+          }
+        },
+        "ChoiceOrder": [
+          "1",
+          "2",
+          "3"
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionID": "QID1"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516406",
+      "SecondaryAttribute": "The Cardiff Hypersensitivity Scale (Visual) This questionnaire asks about\u00a0whether situations are...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<b><u>The Cardiff Hypersensitivity Scale (Visual) <\/u><\/b><br><br>This questionnaire asks about&nbsp;whether situations are comfortable or uncomfortable for your eyes and head. Although a situation might be uncomfortable because it is upsetting, frightening, or disgusting, this is not what we mean.\n<br><br>We are asking specifically about whether these situations are <b>physically uncomfortable<\/b>, causing some form of <b>physical pain, tiredness, ache, or strain in or around your eyes or head<\/b>.\n<br><br>Please answer each question based on what happens when you experience a given situation, rather than how often you experience it. For example, if you always experience discomfort when ironing a stripey shirt, but don\u2019t often iron them, you should respond \u2018Almost Always\u2019.",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "The Cardiff Hypersensitivity Scale (Visual) This questionnaire asks about\u00a0whether situations are...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionText_Unsafe": "<b><u>The Cardiff Hypersensitivity Scale (Visual) <\/u><\/b><br><br>We will now ask about whether situations are comfortable or uncomfortable for your eyes and head. Although a situation might be uncomfortable because it is upsetting, frightening, or disgusting, this is not what we mean.\n<br><br>We are asking specifically about whether these situations are <b>physically uncomfortable<\/b>, causing some form of <b>physical pain, tiredness, ache, or strain in or around your eyes or head<\/b>.\n<br><br>Please answer each question based on what happens when you experience a given situation, rather than how often you experience it. For example, if you always experience discomfort when ironing a stripey shirt, but don\u2019t often iron them, you should respond \u2018Almost Always\u2019.",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "DataExportTag": "Q1",
+        "QuestionID": "QID1216516406"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516407",
+      "SecondaryAttribute": "Please indicate what we mean by 'uncomfortable' in the questions you are about to answer (please...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "Please indicate what we mean by 'uncomfortable' in the questions you are about to answer (please read the text above if you are not sure):",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "Please indicate what we mean by 'uncomfortable' in the questions you are about to answer (please...",
+        "Choices": {
+          "1": {
+            "Display": "Upsetting"
+          },
+          "2": {
+            "Display": "Frightening"
+          },
+          "3": {
+            "Display": "Disgusting"
+          },
+          "4": {
+            "Display": "Physical pain, tiredness or strain in or around your eyes or head"
+          }
+        },
+        "ChoiceOrder": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "QuestionText_Unsafe": "Please indicate what we mean by 'uncomfortable' in the questions you are about to answer (please read the text above if you are not sure):",
+        "DataExportTag": "Q2",
+        "QuestionID": "QID1216516407"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516408",
+      "SecondaryAttribute": "Incorrect answer provided - please try again. We will now ask about whether situations are comfor...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<u>Incorrect answer provided - please try again.<\/u><br>\n<br>\nWe will now ask about whether situations are comfortable or uncomfortable for your eyes and head. Although a situation might be uncomfortable because it is upsetting, frightening, or disgusting, this is not what we mean.<br>\n<br>\nWe are asking specifically about whether these situations are physically uncomfortable, or cause some form of physical pain, tiredness, ache, or strain in or around your eyes or head.<br>\n<br>\nPlease indicate what we mean by 'uncomfortable' in the questions you are about to answer (please read the text above if you are not sure):",
+        "QuestionType": "MC",
+        "Selector": "SAVR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Incorrect answer provided - please try again. We will now ask about whether situations are comfor...",
+        "Choices": {
+          "1": {
+            "Display": "Upsetting"
+          },
+          "2": {
+            "Display": "Frightening"
+          },
+          "3": {
+            "Display": "Disgusting"
+          },
+          "4": {
+            "Display": "Physical pain, tiredness or strain in or around your eyes or head"
+          }
+        },
+        "ChoiceOrder": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "ForceResponseType": "ON",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "DisplayLogic": {
+          "0": {
+            "0": {
+              "ChoiceLocator": "q:\/\/QID1216516407\/SelectableChoice\/1",
+              "Description": "<span class=\"ConjDesc\">If<\/span> <span class=\"QuestionDesc\">Please indicate what we mean by 'uncomfortable' in the questions you are about to answer (please read the text above if you are not sure):<\/span> <span class=\"LeftOpDesc\">Upsetting<\/span> <span class=\"OpDesc\">Is Selected<\/span> ",
+              "LeftOperand": "q:\/\/QID1216516407\/SelectableChoice\/1",
+              "LogicType": "Question",
+              "Operator": "Selected",
+              "QuestionID": "QID1216516407",
+              "QuestionIDFromLocator": "QID1216516407",
+              "QuestionIsInLoop": "no",
+              "Type": "Expression"
+            },
+            "1": {
+              "ChoiceLocator": "q:\/\/QID1216516407\/SelectableChoice\/2",
+              "Conjuction": "Or",
+              "Description": "<span class=\"ConjDesc\">Or<\/span> <span class=\"QuestionDesc\">Please indicate what we mean by 'uncomfortable' in the questions you are about to answer (please read the text above if you are not sure):<\/span> <span class=\"LeftOpDesc\">Frightening<\/span> <span class=\"OpDesc\">Is Selected<\/span> ",
+              "LeftOperand": "q:\/\/QID1216516407\/SelectableChoice\/2",
+              "LogicType": "Question",
+              "Operator": "Selected",
+              "QuestionID": "QID1216516407",
+              "QuestionIDFromLocator": "QID1216516407",
+              "QuestionIsInLoop": "no",
+              "Type": "Expression"
+            },
+            "2": {
+              "ChoiceLocator": "q:\/\/QID1216516407\/SelectableChoice\/3",
+              "Conjuction": "Or",
+              "Description": "<span class=\"ConjDesc\">Or<\/span> <span class=\"QuestionDesc\">Please indicate what we mean by 'uncomfortable' in the questions you are about to answer (please read the text above if you are not sure):<\/span> <span class=\"LeftOpDesc\">Disgusting<\/span> <span class=\"OpDesc\">Is Selected<\/span> ",
+              "LeftOperand": "q:\/\/QID1216516407\/SelectableChoice\/3",
+              "LogicType": "Question",
+              "Operator": "Selected",
+              "QuestionID": "QID1216516407",
+              "QuestionIDFromLocator": "QID1216516407",
+              "QuestionIsInLoop": "no",
+              "Type": "Expression"
+            },
+            "Type": "If"
+          },
+          "Type": "BooleanExpression",
+          "inPage": false
+        },
+        "QuestionText_Unsafe": "<u>Incorrect answer provided - please try again.<\/u><br>\n<br>\nWe will now ask about whether situations are comfortable or uncomfortable for your eyes and head. Although a situation might be uncomfortable because it is upsetting, frightening, or disgusting, this is not what we mean.<br>\n<br>\nWe are asking specifically about whether these situations are physically uncomfortable, or cause some form of physical pain, tiredness, ache, or strain in or around your eyes or head.<br>\n<br>\nPlease indicate what we mean by 'uncomfortable' in the questions you are about to answer (please read the text above if you are not sure):",
+        "DataExportTag": "Q3",
+        "QuestionID": "QID1216516408"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516409",
+      "SecondaryAttribute": "The Cardiff Hypersensitivity Scale (Visual) This questionnaire asks about whether situations are...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "<b><u>The Cardiff Hypersensitivity Scale (Visual) <\/u><\/b><br><br>This questionnaire asks about whether situations are comfortable or uncomfortable for your eyes and head. Although a situation might be uncomfortable because it is upsetting, frightening, or disgusting, this is not what we mean.\n<br><br>We are asking specifically about whether these situations are <b>physically uncomfortable<\/b>, causing some form of <b>physical pain, tiredness, ache, or strain in or around your eyes or head<\/b>.\n<br><br>Please answer each question based on what happens when you experience a given situation, rather than how often you experience it. For example, if you always experience discomfort when ironing a stripey shirt, but don\u2019t often iron them, you should respond \u2018Almost Always\u2019.",
+        "DefaultChoices": false,
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "The Cardiff Hypersensitivity Scale (Visual) This questionnaire asks about whether situations are...",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionText_Unsafe": "<b><u>The Cardiff Hypersensitivity Scale (Visual) <\/u><\/b><br><br>We will now ask about whether situations are comfortable or uncomfortable for your eyes and head. Although a situation might be uncomfortable because it is upsetting, frightening, or disgusting, this is not what we mean.\n<br><br>We are asking specifically about whether these situations are <b>physically uncomfortable<\/b>, causing some form of <b>physical pain, tiredness, ache, or strain in or around your eyes or head<\/b>.\n<br><br>Please answer each question based on what happens when you experience a given situation, rather than how often you experience it. For example, if you always experience discomfort when ironing a stripey shirt, but don\u2019t often iron them, you should respond \u2018Almost Always\u2019.",
+        "DataExportTag": "Q4",
+        "QuestionID": "QID1216516409"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516410",
+      "SecondaryAttribute": "When I look at repeating or stripey patterns (e.g., patterned flooring, wallpaper, buildings, str...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "When I look at repeating or stripey patterns (e.g.,&nbsp;patterned flooring, wallpaper, buildings, striped clothing), it makes my eyes or head feel so uncomfortable I need to look away from them",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "When I look at repeating or stripey patterns (e.g., patterned flooring, wallpaper, buildings, str...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0",
+              "SC_6VkwLnd0hWK8sXc": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1",
+              "SC_6VkwLnd0hWK8sXc": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2",
+              "SC_6VkwLnd0hWK8sXc": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3",
+              "SC_6VkwLnd0hWK8sXc": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "When I look at repeating or stripy patterns (e.g.,&nbsp;patterned flooring, wallpaper, buildings, striped clothing), it makes my eyes or head feel so uncomfortable I need to look away from them",
+        "DataExportTag": "1",
+        "QuestionID": "QID1216516410"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516411",
+      "SecondaryAttribute": "I try to avoid watching films or TV which have lots of fast movements or uses shaky camera footag...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "I try to avoid watching films or TV which have lots of fast movements or uses shaky camera footage (e.g., sports games, action films) because I find them uncomfortable to look at",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "I try to avoid watching films or TV which have lots of fast movements or uses shaky camera footag...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "I try to avoid watching films or TV which have lots of fast movements or uses shaky camera footage (e.g., sports games, action films) because I find them uncomfortable to look at",
+        "DataExportTag": "2",
+        "QuestionID": "QID1216516411"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516412",
+      "SecondaryAttribute": "I turn off or dim bright ceiling lights because they make my eyes or head feel uncomfortable",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "I turn off or dim bright ceiling lights because they make my eyes or head feel uncomfortable",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "I turn off or dim bright ceiling lights because they make my eyes or head feel uncomfortable",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "I find it uncomfortable for my eyes and head when travelling in a vehicle if sunlight is flickering through the window, such as in-between trees or buildings",
+        "DataExportTag": "3",
+        "QuestionID": "QID1216516412"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516413",
+      "SecondaryAttribute": "I have to look away when watching sports or people running and moving around quickly because it's...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "I have to look away when watching sports or people running and moving around quickly because it's visually uncomfortable",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "I have to look away when watching sports or people running and moving around quickly because it's...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "I have to look away when watching sports or people running and moving around quickly because it's visually uncomfortable",
+        "DataExportTag": "4",
+        "QuestionID": "QID1216516413"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516414",
+      "SecondaryAttribute": "Stripey and repeating patterns and pictures seem to shimmer, flicker, or move when I look at them",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "Stripey and repeating patterns and pictures seem to shimmer, flicker, or move when I look at them",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "Stripey and repeating patterns and pictures seem to shimmer, flicker, or move when I look at them",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "Stripy and repeating patterns and pictures seem to shimmer, flicker, or move when I look at them",
+        "DataExportTag": "5",
+        "QuestionID": "QID1216516414"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516415",
+      "SecondaryAttribute": "I close my eyes or look away if there are strobing or flashing lights on a TV programme or a film...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "I close my eyes or look away if there are strobing or flashing lights on a TV programme or a film at the cinema",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "I close my eyes or look away if there are strobing or flashing lights on a TV programme or a film...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "I close my eyes or look away if there are strobing or flashing lights on a TV programme or a film at the cinema",
+        "DataExportTag": "6",
+        "QuestionID": "QID1216516415"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516416",
+      "SecondaryAttribute": "Even if the sun is not directly in my eyes, I need to put the window shade down when driving in b...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "Even if the sun is not directly in my eyes, I need to put the window shade down when driving in bright conditions because the light is uncomfortable for my eyes or head",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "Even if the sun is not directly in my eyes, I need to put the window shade down when driving in b...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "Even if the sun is not directly in my eyes, I need to put the window shade down when driving in bright conditions because the light is uncomfortable for my eyes or head",
+        "DataExportTag": "7",
+        "QuestionID": "QID1216516416"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516417",
+      "SecondaryAttribute": "When there are lots of bright colours around me, I tend to get a headache",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "When there are lots of bright colours around me, I tend to get a headache",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "When there are lots of bright colours around me, I tend to get a headache",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "When there are lots of bright colours around me, I tend to get a headache",
+        "DataExportTag": "8",
+        "QuestionID": "QID1216516417"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516418",
+      "SecondaryAttribute": "I find sudden changes from dark to light highly uncomfortable for my eyes and head (e.g., turning...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "I find sudden changes from dark to light highly uncomfortable for my eyes and head (e.g., turning on lights at night, coming out of a dark room)",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "I find sudden changes from dark to light highly uncomfortable for my eyes and head (e.g., turning...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "I find sudden changes from dark to light highly uncomfortable for my eyes and head (e.g., turning on lights at night, coming out of a dark room)",
+        "DataExportTag": "9",
+        "QuestionID": "QID1216516418"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516419",
+      "SecondaryAttribute": "Video games with lots of motion make my eyes or head feel uncomfortable",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "Video games with lots of motion make my eyes or head feel uncomfortable",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "Video games with lots of motion make my eyes or head feel uncomfortable",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "Video games with lots of motion make my eyes or head feel uncomfortable",
+        "DataExportTag": "10",
+        "QuestionID": "QID1216516419"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516420",
+      "SecondaryAttribute": "Cluttered or visually disorganized places (e.g., rooms, shops or other environments) make my eyes...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "Cluttered or visually disorganized places (e.g., rooms, shops or other environments) make my eyes or head feel uncomfortable",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "Cluttered or visually disorganized places (e.g., rooms, shops or other environments) make my eyes...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "Cluttered or visually disorganized places (e.g., rooms, shops or other environments) make my eyes or head feel uncomfortable",
+        "DataExportTag": "11",
+        "QuestionID": "QID1216516420"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516421",
+      "SecondaryAttribute": "I need to look away from or avoid complex patterns in my environment (e.g., wallpaper, carpets, a...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "I need to look away from or avoid complex patterns in my environment (e.g., wallpaper, carpets, artwork)",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "I need to look away from or avoid complex patterns in my environment (e.g., wallpaper, carpets, a...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "I need to look away from or avoid complex patterns in my environment (e.g., wallpaper, carpets, artwork)",
+        "DataExportTag": "12",
+        "QuestionID": "QID1216516421"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516422",
+      "SecondaryAttribute": "Watching crowds of people moving around is uncomfortable for my eyes and head",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "Watching crowds of people moving around is uncomfortable for my eyes and head",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "Watching crowds of people moving around is uncomfortable for my eyes and head",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "Watching crowds of people moving around is uncomfortable for my eyes and head",
+        "DataExportTag": "13",
+        "QuestionID": "QID1216516422"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516423",
+      "SecondaryAttribute": "When sunlight is reflected off surfaces (e.g., water, snow, mirrors, cars, screens) it makes my e...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "When sunlight is reflected off surfaces (e.g., water, snow, mirrors, cars, screens) it makes my eyes or head feel so uncomfortable that I need to look away",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "When sunlight is reflected off surfaces (e.g., water, snow, mirrors, cars, screens) it makes my e...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "QuestionText_Unsafe": "When sunlight is reflected off surfaces (e.g., water, snow, mirrors, cars, screens) it makes my eyes or head feel so uncomfortable that I need to look away",
+        "DataExportTag": "14",
+        "QuestionID": "QID1216516423"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516424",
+      "SecondaryAttribute": "I find rooms or buildings with stripey or complex features (e.g., high contrast panelling, brickw...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "I find rooms or buildings with stripey or complex features (e.g., high contrast panelling, brickwork, columns) uncomfortable to look at",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "I find rooms or buildings with stripey or complex features (e.g., high contrast panelling, brickw...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "I find rooms or buildings with stripy or complex features (e.g., high contrast panelling, brickwork, columns) uncomfortable to look at",
+        "DataExportTag": "15",
+        "QuestionID": "QID1216516424"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516425",
+      "SecondaryAttribute": "Looking at flickering screens is uncomfortable for my eyes and head",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "Looking at flickering screens is uncomfortable for my eyes and head",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "Looking at flickering screens is uncomfortable for my eyes and head",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "Looking at flickering screens is uncomfortable for my eyes and head",
+        "DataExportTag": "16",
+        "QuestionID": "QID1216516425"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516426",
+      "SecondaryAttribute": "I try to avoid going to supermarkets because I find them visually uncomfortable (e.g., too many o...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "I try to avoid going to supermarkets because I find them visually uncomfortable (e.g., too many objects, shelves, bright colours, and lights)",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "I try to avoid going to supermarkets because I find them visually uncomfortable (e.g., too many o...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "I try to avoid going to supermarkets because I find them visually uncomfortable (e.g., too many objects, shelves, bright colours, and lights)",
+        "DataExportTag": "17",
+        "QuestionID": "QID1216516426"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516427",
+      "SecondaryAttribute": "I try to avoid going to supermarkets because I find them visually uncomfortable (e.g., too many o...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "I try to avoid going to supermarkets because I find them visually uncomfortable (e.g., too many objects, shelves, bright colours, and lights)",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "I try to avoid going to supermarkets because I find them visually uncomfortable (e.g., too many o...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "I try to avoid going to supermarkets because I find them visually uncomfortable (e.g., too many objects, shelves, bright colours, and lights)",
+        "DataExportTag": "Q22",
+        "QuestionID": "QID1216516427"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516428",
+      "SecondaryAttribute": "My eyes or head feel uncomfortable if there is a bright light in the dark (e.g., cinema screens,...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "My eyes or head feel uncomfortable if there is a bright light in the dark (e.g., cinema screens, lecture theatres, torches, car headlights at night)",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "My eyes or head feel uncomfortable if there is a bright light in the dark (e.g., cinema screens,...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "I find sudden changes from dark to light highly uncomfortable for my eyes and head (e.g., turning on lights at night, coming out of a dark room)",
+        "DataExportTag": "19",
+        "QuestionID": "QID1216516428"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID1216516429",
+      "SecondaryAttribute": "Clothing with stripes, checks, or complex patterns make me want to look away",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "Clothing with stripes, checks, or complex patterns make me want to look away",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "Clothing with stripes, checks, or complex patterns make me want to look away",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "QuestionText_Unsafe": "Clothing with stripes, checks, or complex patterns make me want to look away",
+        "DataExportTag": "20",
+        "QuestionID": "QID1216516429"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID26",
+      "SecondaryAttribute": "Click to write the question text",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "Click to write the question text",
+        "DataExportTag": "Q26",
+        "QuestionType": "MC",
+        "Selector": "SAVR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Click to write the question text",
+        "Choices": {
+          "1": {
+            "Display": "Click to write Choice 1"
+          },
+          "2": {
+            "Display": "Click to write Choice 2"
+          },
+          "3": {
+            "Display": "Click to write Choice 3"
+          }
+        },
+        "ChoiceOrder": [
+          "1",
+          "2",
+          "3"
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionID": "QID26"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID27",
+      "SecondaryAttribute": "I try to avoid venues where there will be strobing or flashing lights (e.g., clubs, theatres, con...",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "QuestionText": "I try to avoid venues where there will be strobing or flashing lights (e.g., clubs, theatres, concerts) in case they make my eyes or head feel uncomfortable",
+        "DataExportTag": "18",
+        "QuestionType": "MC",
+        "Selector": "SAHR",
+        "SubSelector": "TX",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        },
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "LabelPosition": "BELOW"
+        },
+        "QuestionDescription": "I try to avoid venues where there will be strobing or flashing lights (e.g., clubs, theatres, con...",
+        "Choices": {
+          "1": {
+            "Display": "Almost Never"
+          },
+          "2": {
+            "Display": "Occasionally"
+          },
+          "3": {
+            "Display": "Often"
+          },
+          "4": {
+            "Display": "Almost Always"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "RequestResponse",
+            "ForceResponseType": "RequestResponse",
+            "Type": "None"
+          }
+        },
+        "GradingData": [
+          {
+            "ChoiceID": "1",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "0"
+            },
+            "index": 0
+          },
+          {
+            "ChoiceID": "2",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "1"
+            },
+            "index": 1
+          },
+          {
+            "ChoiceID": "3",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "2"
+            },
+            "index": 2
+          },
+          {
+            "ChoiceID": "4",
+            "Grades": {
+              "SC_553DRrtJbiaEiTY": "3"
+            },
+            "index": 3
+          }
+        ],
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "QuestionID": "QID27"
+      }
+    },
+    {
+      "SurveyID": "SV_d0Du8qda17TAb6m",
+      "Element": "STAT",
+      "PrimaryAttribute": "Survey Statistics",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "MobileCompatible": false,
+        "ID": "Survey Statistics"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+# =========================
+# LOGS (generated at runtime, not versioned)
+# =========================
+logs/
+.claude/
+
+# =========================
+# ENV / DEPENDÊNCIAS
+# =========================
+venv/
+.venv/
+.env
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# DATA / OUTPUT (DEFAULT IGNORE)
+# =========================
+# data/ é ignorado, exceto o dataset público de classificação
+data/*
+!data/classification_dataset.parquet
+outputs/
+tmp/
+encrypted/
+exam/
+waveform/
+patients-data/
+notebooks/neurodivergencia_classification.html
+cardiff-questionnaire-responses
+
+# =========================
+# EXCEÇÃO: ANONYMIZED DATASET
+# (libera apenas esse subdiretório)
+# =========================
+output/*
+
+!output/data/
+!output/data/anonymized/
+!output/data/anonymized/**
+output/data/reports
+# =========================
+# NOTE:
+# NÃO usar *.parquet global aqui
+# =========================

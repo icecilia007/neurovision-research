@@ -1,0 +1,8 @@
+outputs/hashed/erg/erg_waveforms_20260312.parquet filter=lfs diff=lfs merge=lfs -text
+*.parquet filter=lfs diff=lfs merge=lfs -text
+outputs/hashed/erg/*.parquet filter=lfs diff=lfs merge=lfs -text
+outputs/hashed/erg/preview/preview2_erg_waveforms.csv filter=lfs diff=lfs merge=lfs -text
+output/data/anonymized/**/*.parquet filter=lfs diff=lfs merge=lfs -text
+output/data/anonymized/**/*.csv filter=lfs diff=lfs merge=lfs -text
+*.mat filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text

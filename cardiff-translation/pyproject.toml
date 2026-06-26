@@ -1,0 +1,55 @@
+[project]
+name = "cardiff"
+version = "0.1.0"
+description = "Machine translation evaluation framework developed for the Cardiff CHYPS-V Questionnaire."
+readme = "README.md"
+requires-python = ">=3.12, <3.13"
+keywords = [
+    "Machine Translation", 
+    "Evaluation",
+    "Unbabel COMET",
+    "BERTscore",
+    "MetricX",
+    "Legibility Metrics",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing :: Linguistic",
+]
+dependencies = [
+    "setuptools==69.5.1",
+    "matplotlib>=3.10.8",
+    "numpy<2.0.0",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
+    "torch>=2.9.1",
+    "transformers[torch]~=4.40.1",
+    "bert-score>=0.3.13",
+    "unbabel-comet>=2.2.6",
+    "sentencepiece>=0.1.96",
+    "datasets>=2.13.1",
+    "pyarrow>=18.0.0",
+    "apache-beam>=2.57.0",
+    "mt-metrics-eval @ git+https://github.com/google-research/mt-metrics-eval",
+    "scikit-posthocs>=0.11.4",
+    "litmodels>=0.1.8",
+]
+
+[project.urls]
+Homepage = "https://lapan.com"
+Repository = "https://github.com/LAPAN-HUGODEPAULA/cardiff-translation"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatchling.build.targets.wheel]
+packages = ["src/cardiff"]
