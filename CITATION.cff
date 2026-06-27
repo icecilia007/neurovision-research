@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "Se você usar este repositório em sua pesquisa, por favor cite como abaixo."
+title: "neurovision-research: Instrumentos de pesquisa sobre neurodivergência e hipersensibilidade visual"
+type: software
+license: CC-BY-4.0
+repository-code: "https://github.com/icecilia007/neurovision-research"
+date-released: "2025-12-01"
+abstract: >
+  Repositório de pesquisa do TCC de Engenharia de Software (PUC Minas, 2025/2).
+  Contém: (1) pipeline de processamento e classificação de dados de ERG para predição
+  de neurodivergência; (2) framework de avaliação de 25 traduções do CHYPS-V para
+  Português Brasileiro; (3) código-fonte do sistema NeuroVision de coleta de questionários.
+authors:
+  - family-names: "Barbosa"
+    given-names: "Izabela"
+    email: "izabelaengineer@gmail.com"
+  - family-names: "Silva Tavares"
+    given-names: "Cleiton"
+    email: "cleitontavares@pucminas.br"
+  - family-names: "de Paula"
+    given-names: "Hugo"
+    email: "hugodepaula@gmail.com"
+  - family-names: "Baron"
+    given-names: "Jerome"
+    email: "jerome.baron.ufmg@gmail.com"
+  - family-names: "Queiroz Guimarães"
+    given-names: "Ricardo"
+    email: "rg2020@gmail.com"
+keywords:
+  - neurodivergência
+  - eletrorretinograma
+  - ERG
+  - classificação
+  - machine learning
+  - hipersensibilidade visual
+  - CHYPS-V
+  - tradução automática
+  - LGPD

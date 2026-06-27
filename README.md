@@ -48,8 +48,20 @@ Documentos complementares da pesquisa.
 
 ---
 
-## Contato
+## Autores e Orientadores
 
-**Pesquisadora:** Izabela Barbosa  
-**E-mail:** icsbarbosa@sga.pucminas.br | izabelaengineer@gmail.com  
+| Papel | Nome | E-mail |
+|-------|------|--------|
+| Autora | Izabela Barbosa | izabelaengineer@gmail.com |
+| Orientador | Cleiton Silva Tavares | cleitontavares@pucminas.br |
+| Orientador | Hugo de Paula | hugodepaula@gmail.com |
+| Orientador | Jerome Baron | jerome.baron.ufmg@gmail.com |
+| Orientador | Ricardo Queiroz Guimarães | rg2020@gmail.com |
+
 **Instituição:** PUC Minas — Engenharia de Software, 2025/2
+
+---
+
+## Como citar
+
+Se você usar este repositório em sua pesquisa, utilize a citação disponível no arquivo [`CITATION.cff`](CITATION.cff) ou clique em **"Cite this repository"** no GitHub.
