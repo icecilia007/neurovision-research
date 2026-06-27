@@ -50,13 +50,13 @@ Documentos complementares da pesquisa.
 
 ## Autores e Orientadores
 
-| Papel | Nome | E-mail |
-|-------|------|--------|
-| Autora | Izabela Barbosa | izabelaengineer@gmail.com |
-| Orientador | Cleiton Silva Tavares | cleitontavares@pucminas.br |
-| Orientador | Hugo de Paula | hugodepaula@gmail.com |
-| Orientador | Jerome Baron | jerome.baron.ufmg@gmail.com |
-| Orientador | Ricardo Queiroz Guimarães | rg2020@gmail.com |
+| Papel | Nome | E-mail | ORCID |
+|-------|------|--------|-------|
+| Autora | Izabela Cecilia Silva Barbosa | izabelaengineer@gmail.com | [0009-0007-6514-8515](https://orcid.org/0009-0007-6514-8515) |
+| Orientador | Cleiton Silva Tavares | cleitontavares@pucminas.br | [0009-0008-4235-409X](https://orcid.org/0009-0008-4235-409X) |
+| Orientador | Hugo Bastos de Paula | hugodepaula@gmail.com | [0000-0002-6193-3205](https://orcid.org/0000-0002-6193-3205) |
+| Orientador | Jerome Baron | jerome.baron.ufmg@gmail.com | [0000-0002-3809-7835](https://orcid.org/0000-0002-3809-7835) |
+| Orientador | Ricardo Queiroz Guimarães | rg2020@gmail.com | [0000-0001-7600-855X](https://orcid.org/0000-0001-7600-855X) |
 
 **Instituição:** PUC Minas — Engenharia de Software, 2025/2
 

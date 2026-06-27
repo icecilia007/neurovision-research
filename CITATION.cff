@@ -12,20 +12,25 @@ abstract: >
   Português Brasileiro; (3) código-fonte do sistema NeuroVision de coleta de questionários.
 authors:
   - family-names: "Barbosa"
-    given-names: "Izabela"
+    given-names: "Izabela Cecilia Silva"
     email: "izabelaengineer@gmail.com"
+    orcid: "https://orcid.org/0009-0007-6514-8515"
   - family-names: "Silva Tavares"
     given-names: "Cleiton"
     email: "cleitontavares@pucminas.br"
+    orcid: "https://orcid.org/0009-0008-4235-409X"
   - family-names: "de Paula"
-    given-names: "Hugo"
+    given-names: "Hugo Bastos"
     email: "hugodepaula@gmail.com"
+    orcid: "https://orcid.org/0000-0002-6193-3205"
   - family-names: "Baron"
     given-names: "Jerome"
     email: "jerome.baron.ufmg@gmail.com"
+    orcid: "https://orcid.org/0000-0002-3809-7835"
   - family-names: "Queiroz Guimarães"
     given-names: "Ricardo"
     email: "rg2020@gmail.com"
+    orcid: "https://orcid.org/0000-0001-7600-855X"
 keywords:
   - neurodivergência
   - eletrorretinograma
