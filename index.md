@@ -1,14 +1,4 @@
-# neurovision-research
-
-- [View On GitHub](https://github.com/icecilia007/neurovision-research)
-
-This project is maintained by [icecilia007](https://github.com/icecilia007)
-
 ## Instrumentos de Pesquisa sobre Neurodivergência e Hipersensibilidade Visual
-
-Repositório de pesquisa do TCC de Engenharia de Software, PUC Minas (2025/2). Contém o código fonte, análises e instrumentos desenvolvidos na pesquisa sobre neurodivergência e hipersensibilidade visual, organizado em três componentes principais.
-
-### Resumo
 
 <p style="text-align: justify;">Este repositório reúne os artefatos produzidos ao longo da pesquisa: (1) uma pipeline de processamento e classificação de dados de Eletrorretinograma (ERG) para predição de neurodivergência; (2) um framework de avaliação de 25 traduções do questionário CHYPS-V (Cardiff Hypersensitivity Scale, Visual) para o Português Brasileiro; e (3) o código fonte do sistema NeuroVision, utilizado para criação, distribuição e coleta de respostas do questionário CHYPS-BR.</p>
 
