@@ -34,7 +34,7 @@ Framework de avaliação de 25 traduções do questionário CHYPS-V (Cardiff Hyp
 
 ### [holhos-project](holhos-project/)
 
-Código-fonte do **NeuroVision** ([neurovision.me](https://neurovision.me)): sistema web para criação, distribuição e coleta de respostas do questionário CHYPS-BR.
+Código-fonte do **NeuroVision** ([neurovision.me](https://neurovision.me/questionnaire/Mw/respond)): sistema web para criação, distribuição e coleta de respostas do questionário CHYPS-BR.
 
 - Frontend: Python + NiceGUI
 - Backend: Python + FastAPI
